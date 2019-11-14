@@ -67,7 +67,7 @@ double validateDouble(double &doubleInput)
 {
 	while (true)
     {
-        cout << "Enter a number with or without decimals (double): ";
+     cout << "Enter a number with or without decimals (double): ";
 
         try
         {
@@ -89,7 +89,7 @@ char validateChar(char &charInput)
 { 
     while (true)
     {
-        cout << "Enter a single letter or number (1 digit): ";
+    //    cout << "Enter a single letter or number (1 digit): ";
 
         try
         {

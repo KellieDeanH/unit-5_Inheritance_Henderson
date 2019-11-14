@@ -1,0 +1,10 @@
+make your classes
+declare your variables
+make your functions
+create your setters and getters
+make show menu
+make a handle option with your if statements
+in int main put your set precision
+include a do while loop
+call your functions in the loop
+make sure they know the exit condition.
